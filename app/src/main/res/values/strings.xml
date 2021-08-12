@@ -1,0 +1,14 @@
+<resources>
+    <!-- Strings used for fragments for navigation -->
+    <string name="app_name">The Eatery</string>
+    <string name="bill_amount">Amount:</string>
+    <string name="place_holder">Enter Amount</string>
+    <string name="tip_percent">%</string>
+    <string name="tip_label">Tip:</string>
+    <string name="total_label">Total:</string>
+    <string name="amount_valid_input">0123456789.</string>
+
+    <string name="remember_percent_title">Remember Tip Percent</string>
+    <string name="remember_percent_summary">Remembers the tip percent for the most recent calculation.</string>
+
+</resources>

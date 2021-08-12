@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:background="@drawable/logobottom">
+
+    <SeekBar
+        android:id="@+id/percentSeekBar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="125dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="153dp"
+        android:max="35"
+        android:progress="0" />
+
+    <TextView
+        android:id="@+id/amountLabelTextView"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="34dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/bill_amount"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/amountTextView"
+        android:layout_width="275dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="24dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="75dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/percentTextView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="150dp"
+        android:text="@string/tip_percent"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tipLabelTextView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="200dp"
+        android:text="@string/tip_label"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tipTextView"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/totalLabelTextView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="250dp"
+        android:text="@string/total_label"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/totalTextView"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="250dp"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="7"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="400dp"
+        android:text="4"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="450dp"
+        android:text="1"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="8"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="400dp"
+        android:gravity="center"
+        android:text="5"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="450dp"
+        android:gravity="center"
+        android:text="2"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="9"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="400dp"
+        android:gravity="center"
+        android:text="6"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="450dp"
+        android:gravity="center"
+        android:text="3"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="206dp"
+        android:layout_marginTop="500dp"
+        android:gravity="center_horizontal"
+        android:text="."
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="184dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="500dp"
+        android:gravity="center"
+        android:text="0"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="305dp"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="CLR"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_marginLeft="305dp"
+        android:layout_marginTop="400dp"
+        android:gravity="center"
+        android:text="DEL"
+        android:textAlignment="center"
+        app:backgroundTint="?attr/colorButtonNormal" />
+
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logobottom"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="21dp"
+        android:text="About"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="87dp"
+        android:text="Developed by Joshua Kidder, of Jamestown, Ohio, as a Senior at DeVry University, The
+Eatery, is a mobile application #tipcalculator, presenting a vintage appearance and tone, with
+compelling color pallets, giving the user a relaxed, rustic experience, that helps in balancing
+the bodys energy centers--while also being a convenience to the casual diner, that quickly
+calculates and displays possible tips for a restraunt bill. The mobile application intends to
+attract an audience from fifteen years of age and older, aiming at both male and female diners."
+        android:textSize="18sp" />
+</RelativeLayout>
