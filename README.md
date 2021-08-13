@@ -1,5 +1,5 @@
 # theEatery
-Design Brief: Tip Calculator
+# Design Brief: Tip Calculator
 
 
 ![db_one](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_one.PNG)
