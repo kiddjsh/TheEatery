@@ -44,7 +44,7 @@
 ![db_fortytwo](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortytwo.PNG)
 ![db_fortythree](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortythree.PNG)
 ![db_fortyfour](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortyfour.PNG)
-![db_fortyfive](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fourtyfive.PNG)
+![db_fortyfive](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortyfive.PNG)
 ![db_fortysix](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortysix.PNG)
 ![db_fortyseven](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortyseven.PNG)
 ![db_fortyeight](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_fortyeight.PNG)
