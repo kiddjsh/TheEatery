@@ -1,4 +1,4 @@
-# Design Brief: Tip Calculator
+# Design Brief_Mobile Application Development
 
 
 ![db_one](https://raw.githubusercontent.com/kiddjsh/TheEatery/master/screenshots/db_one.PNG)
