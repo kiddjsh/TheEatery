@@ -1,4 +1,3 @@
-# theEatery
 # Design Brief: Tip Calculator
 
 
